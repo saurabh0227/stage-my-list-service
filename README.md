@@ -30,7 +30,7 @@ This project implements the "My List" feature for an OTT platform, allowing user
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/my-list-feature.git
+   git clone https://github.com/saurabh0227/stage-my-list-service.git
    cd my-list-service
    ```
 
